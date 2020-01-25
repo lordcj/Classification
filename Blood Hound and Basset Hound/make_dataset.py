@@ -20,7 +20,7 @@ args = vars(ap.parse_args())
 
 
 
-API_KEY = "8d2ea2016f224d558768a7fc3b8c3189" #Sample Key: 528a51a648024829b8ec869b13d9b985
+API_KEY = "Your API Key" #Sample Key: 528a51a648024829b8ec869b13d9b985
 MAX_RESULTS = 200 
 GROUP_SIZE = 50
  
